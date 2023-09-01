@@ -1,0 +1,10 @@
+.navbar{
+    opacity: 0.8;
+    border-bottom: 1px solid #fff;
+}
+
+.jumbotron{
+    margin-top: 56px;
+    padding: 100px;
+    width: 100%;
+}
